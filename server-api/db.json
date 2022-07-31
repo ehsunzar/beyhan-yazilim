@@ -1,0 +1,30 @@
+{
+  "books": [
+    {
+      "title": "les miserables",
+      "description": "victor hugo",
+      "id": 1
+    },
+    {
+      "title": "game of thrones",
+      "description": "George R. R. Martin",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "The geometry of art and life",
+      "description": "matilla ghyka",
+      "published": false
+    },
+    {
+      "title": "transformers for natural language processing",
+      "description": "denis rothman",
+      "id": 4
+    },
+    {
+      "title": "counterfeit",
+      "description": "kirstin chen",
+      "id": 8
+    }
+  ]
+}
